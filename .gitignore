@@ -1,0 +1,17 @@
+moc_*.cpp
+*.o
+*.d
+*.a
+*.swp
+*.bak
+*~
+*.o
+*.qm
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+Ciredo-qt_plugin_import.cpp
+object_script.Ciredo-qt.Debug
+object_script.Ciredo-qt.Release
+release/
